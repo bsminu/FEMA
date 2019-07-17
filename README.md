@@ -1,4 +1,4 @@
-<img src="brand logo.png"></a>
+<img src="brand logo.png" style="width:100px;height:100px;"></a>
 
 # Predicting Disaster Costs Using OpenFEMA
 Repo for Career Track Capstone on OpenFEMA
