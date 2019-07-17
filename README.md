@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/24078/screenshots/1316755/gorilla3.jpg" title="GCOX"></a>
+<img src="brand logo.png"></a>
 
 # Predicting Disaster Costs Using OpenFEMA
 Repo for Career Track Capstone on OpenFEMA
